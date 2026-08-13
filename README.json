@@ -1,0 +1,320 @@
+{
+  "items": [
+    {
+      "description": "Complete, self-hosted home automation systems with frontend, suitable for end users. At least a year in active development, at least 200 commits, at least 200 stars.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Home Assistant",
+          "description": "Site: https://home-assistant.io/, Stars: 39187 Language: Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:51:35Z",
+            "owner": "home-assistant",
+            "repo": "core",
+            "stars": 89894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domoticz",
+          "description": "Site: http://www.domoticz.com/, Stars: 2831, Language: C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T06:58:28Z",
+            "owner": "domoticz",
+            "repo": "domoticz",
+            "stars": 3791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gladys",
+          "description": "Site: https://gladysproject.com/, Stars: 1573, Language: JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T09:30:39Z",
+            "owner": "GladysAssistant",
+            "repo": "Gladys",
+            "stars": 3100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pimatic",
+          "description": "Site: https://pimatic.org/, Stars: 579, Language: JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2022-10-21T17:21:16Z",
+            "owner": "pimatic",
+            "repo": "pimatic",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomeGenie",
+          "description": "Site: http://homegenie.it/, Stars: 313, Language: C#",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-31T19:51:38Z",
+            "owner": "genielabs",
+            "repo": "HomeGenie",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freedomotic",
+          "description": "Site: http://freedomotic.com/, Stars: 352, Language: Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-07T21:24:20Z",
+            "owner": "freedomotic",
+            "repo": "freedomotic",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeedom",
+          "description": "Site: https://www.jeedom.com/site/en/, Stars: 327, Language: PHP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T00:27:10Z",
+            "owner": "jeedom",
+            "repo": "core",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MajorDoMo",
+          "description": "Site: http://majordomohome.com/, Stars: 346, Language: PHP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T12:13:57Z",
+            "owner": "sergejey",
+            "repo": "majordomo",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pilight",
+          "description": "Site: https://www.pilight.org/, Stars: 269, Language: C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-28T14:29:34Z",
+            "owner": "pilight",
+            "repo": "pilight",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MisterHouse",
+          "description": "Site: http://misterhouse.net/, Stars: 218, Language: Perl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-05-16T02:17:03Z",
+            "owner": "hollie",
+            "repo": "misterhouse",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHEM",
+          "description": "Site: https://fhem.de/, Revisions: 23387, Language: Perl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-13T01:00:10Z",
+            "owner": "mhop",
+            "repo": "fhem-mirror",
+            "stars": 107
+          }
+        }
+      ],
+      "title": "Notable OpenSource Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Notable Commercial Systems"
+    },
+    {
+      "description": "Was a $300 hub, offering a \"lifetime subscription\".\nAcquired by Nest (Google subsidiary) in October 2014. In April 2016, Nest announced that Revolv Hub will cease to operate on May 15, 2016. https://en.wikipedia.org/wiki/Nest_Labs#Intentional_disabling_of_hardware_devices",
+      "items": [],
+      "title": "Revolv"
+    },
+    {
+      "description": "Since at least 2008.\nUses Lua, open development support, community ecosystem.",
+      "items": [],
+      "title": "Vera"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Home Automation Services"
+    },
+    {
+      "description": "Many services tout \"P2P\" in video surveillance, to allow your smartphone to connect to your camera - when you're in your home or on another side of the world. That's oxymoron of course, there's nothing \"point-to-point\" in how it's implemented. Both your camera and smarphone connect to faraway 3rd-party cloud server (this happens even if both in the same home network, 5 meters one from another). All video goes via (and thus to) 3rd party of course.\nMirai Botnet was/is a botnet mostly consisting of video cameras controlled by 3rd party.",
+      "items": [],
+      "title": "Video Surveillance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related/useful Services and Software"
+    },
+    {
+      "description": "One of the basic tasks of Home Automation is visualization and control. Dashboards is a basic way to do that. Dashboard is usually included into \"full stack\" HA systems, but what if you don't like it or need a custom one? Note that majority of systems below offer visualization only (no control).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Shopify/dashing",
+          "description": "Ruby, 11128 stars, no longer maintained",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Smashing/smashing",
+              "description": "maintained fork, 1665 stars",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-03-10T21:09:18Z",
+                "owner": "Smashing",
+                "repo": "smashing",
+                "stars": 3301
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-04-29T15:20:09Z",
+            "owner": "Shopify",
+            "repo": "dashing",
+            "stars": 10909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Freeboard/freeboard",
+          "description": "JavaScript, 5416 stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-23T21:14:02Z",
+            "owner": "Freeboard",
+            "repo": "freeboard",
+            "stars": 6504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/allegro/tipboard",
+          "description": "Python, 773 stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-14T20:45:18Z",
+            "owner": "allegro",
+            "repo": "tipboard",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/evolvedlight/pydashie",
+          "description": "\"Port of Dashing to Python\" 416 stars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-24T14:16:55Z",
+            "owner": "evolvedlight",
+            "repo": "pydashie",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Grid Layouts",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/haltu/muuri",
+              "description": "No jQuery dep, no item resize (7832 stars)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-05-25T12:11:39Z",
+                "owner": "haltu",
+                "repo": "muuri",
+                "stars": 10942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ducksboard/gridster.js",
+              "description": "The \"default\" solution, jQuery plugin (6188 stars)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-09-10T21:01:45Z",
+                "owner": "ducksboard",
+                "repo": "gridster.js",
+                "stars": 5975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hootsuite/grid",
+              "description": "(3433 stars)",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Dashboards"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:20:23.348Z",
+    "original_repository": "pfalcon/awesome-smarthome",
+    "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
+    "enhanced_repository": "enhansome/enhansome-smarthome",
+    "enhanced_repository_description": null,
+    "title": "Awesome SmartHome with stars"
+  }
+}
