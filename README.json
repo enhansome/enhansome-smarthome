@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:49:40Z",
+            "last_commit": "2026-08-15T08:53:08Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 89917
+            "stars": 89928
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T07:46:55Z",
+            "last_commit": "2026-08-14T15:02:22Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3791
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T10:11:15Z",
+            "last_commit": "2026-08-15T06:20:31Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3102
+            "stars": 3124
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T00:27:09Z",
+            "last_commit": "2026-08-15T00:27:07Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 414
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-14T01:01:08Z",
+            "last_commit": "2026-08-15T01:01:41Z",
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
@@ -233,7 +233,7 @@
             "last_commit": "2023-09-23T21:14:02Z",
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6504
+            "stars": 6503
           }
         },
         {
@@ -280,7 +280,7 @@
                 "last_commit": "2024-05-25T12:11:39Z",
                 "owner": "haltu",
                 "repo": "muuri",
-                "stars": 10943
+                "stars": 10944
               }
             },
             {
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:14:57.602Z",
+    "last_updated": "2026-08-15T09:37:17.429Z",
     "original_repository": "pfalcon/awesome-smarthome",
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
     "enhanced_repository": "enhansome/enhansome-smarthome",
