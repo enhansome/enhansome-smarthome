@@ -23,8 +23,8 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 89,971 | 🐛 3,875 | 🌐 Python | 📅 2026-08-19 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,793 | 🐛 23 | 🌐 C++ | 📅 2026-08-18 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 89,976 | 🐛 3,870 | 🌐 Python | 📅 2026-08-19 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,793 | 🐛 24 | 🌐 C++ | 📅 2026-08-19 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
 * [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,154 | 🐛 67 | 🌐 JavaScript | 📅 2026-08-19 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 599 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 456 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
@@ -38,7 +38,7 @@ at least 200 stars.
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,345 | 🐛 19 | 🌐 Python | 📅 2026-08-14
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,347 | 🐛 19 | 🌐 Python | 📅 2026-08-14
 
 ## Notable Commercial Systems
 
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,442 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-16
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,443 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-16
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>

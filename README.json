@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-19T09:34:56Z",
+            "last_commit": "2026-08-19T12:47:43Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 89971
+            "stars": 89976
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-18T14:47:06Z",
+            "last_commit": "2026-08-19T10:12:29Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3793
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T05:18:07Z",
+            "last_commit": "2026-08-19T12:34:55Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3154
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-16T05:35:44Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17442
+                "stars": 17443
               }
             },
             {
@@ -342,8 +342,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:47:42.757Z",
+    "last_updated": "2026-08-19T12:50:53.801Z",
     "original_repository": "pfalcon/awesome-smarthome",
+    "original_repository_id": 108227076,
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
     "enhanced_repository": "enhansome/enhansome-smarthome",
     "enhanced_repository_description": null,
