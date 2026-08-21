@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-20T09:21:09Z",
+            "last_commit": "2026-08-21T09:49:31Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 89998
+            "stars": 90021
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-19T10:12:29Z",
+            "last_commit": "2026-08-21T08:41:13Z",
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3793
+            "stars": 3792
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:37:21Z",
+            "last_commit": "2026-08-21T09:15:48Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3154
@@ -60,7 +60,7 @@
             "last_commit": "2022-10-21T17:21:16Z",
             "owner": "pimatic",
             "repo": "pimatic",
-            "stars": 599
+            "stars": 598
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-20T00:27:07Z",
+            "last_commit": "2026-08-21T08:46:03Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 414
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-16T02:17:03Z",
             "owner": "hollie",
             "repo": "misterhouse",
-            "stars": 242
+            "stars": 241
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 3048620,
             "language": "Perl",
-            "last_commit": "2026-08-19T01:01:38Z",
+            "last_commit": "2026-08-21T01:01:26Z",
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 169975410,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T05:35:44Z",
+                "last_commit": "2026-08-20T15:47:29Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17448
+                "stars": 17447
               }
             },
             {
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:48:32.880Z",
+    "last_updated": "2026-08-21T09:50:51.701Z",
     "original_repository": "pfalcon/awesome-smarthome",
     "original_repository_id": 108227076,
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
