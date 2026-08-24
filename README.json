@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-23T08:39:16Z",
+            "last_commit": "2026-08-24T09:58:09Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90054
+            "stars": 90082
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T17:28:29Z",
+            "last_commit": "2026-08-24T09:33:39Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3154
+            "stars": 3155
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-23T00:27:22Z",
+            "last_commit": "2026-08-24T00:27:07Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 414
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 3048620,
             "language": "Perl",
-            "last_commit": "2026-08-23T01:00:10Z",
+            "last_commit": "2026-08-24T01:00:06Z",
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 169975410,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T15:47:29Z",
+                "last_commit": "2026-08-24T05:05:49Z",
                 "owner": "leon-ai",
                 "repo": "leon",
                 "stars": 17455
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:39:49.291Z",
+    "last_updated": "2026-08-24T10:01:25.567Z",
     "original_repository": "pfalcon/awesome-smarthome",
     "original_repository_id": 108227076,
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
