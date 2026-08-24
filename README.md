@@ -23,9 +23,9 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,082 | 🐛 3,908 | 🌐 Python | 📅 2026-08-24 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,792 | 🐛 32 | 🌐 C++ | 📅 2026-08-22 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,155 | 🐛 54 | 🌐 JavaScript | 📅 2026-08-24 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,087 | 🐛 3,900 | 🌐 Python | 📅 2026-08-24 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,792 | 🐛 31 | 🌐 C++ | 📅 2026-08-24 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,155 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-24 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 457 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 428 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
@@ -38,7 +38,7 @@ at least 200 stars.
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,371 | 🐛 21 | 🌐 Python | 📅 2026-08-21
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,374 | 🐛 21 | 🌐 Python | 📅 2026-08-21
 
 ## Notable Commercial Systems
 

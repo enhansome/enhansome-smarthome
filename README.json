@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-24T09:58:09Z",
+            "last_commit": "2026-08-24T14:19:20Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90082
+            "stars": 90087
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-22T12:14:18Z",
+            "last_commit": "2026-08-24T13:31:03Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3792
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:33:39Z",
+            "last_commit": "2026-08-24T14:13:52Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3155
@@ -166,6 +166,21 @@
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Home Assistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142909126,
+            "language": "Python",
+            "last_commit": "2026-08-21T06:14:59Z",
+            "owner": "frenck",
+            "repo": "awesome-home-assistant",
+            "stars": 8374
           }
         }
       ],
@@ -336,13 +351,35 @@
           "description": "One of the basic tasks of Home Automation is visualization and control. Dashboards is a basic way to do that. Dashboard is usually included into \"full stack\" HA systems, but what if you don't like it or need a custom one? Note that majority of systems below offer visualization only (no control).",
           "node_type": "group",
           "title": "Dashboards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ha-floorplan",
+              "description": "Floorplans for Home Assistant",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91287167,
+                "language": "HTML",
+                "last_commit": "2021-01-25T08:15:58Z",
+                "owner": "pkozul",
+                "repo": "ha-floorplan",
+                "stars": 1736
+              }
+            }
+          ],
+          "description": "A step above and beyond dashboards is visualizing what happens where on the actual floorplan of your home.\nCompiled, maintained, content (c) 2017-2021 Paul Sokolovsky\nReleased under Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).",
+          "node_type": "group",
+          "title": "Floor Plans"
         }
       ],
       "title": "Related/useful Services and Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:01:25.567Z",
+    "last_updated": "2026-08-24T14:27:30.219Z",
     "original_repository": "pfalcon/awesome-smarthome",
     "original_repository_id": 108227076,
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
