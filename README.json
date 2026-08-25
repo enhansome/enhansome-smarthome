@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-24T14:19:20Z",
+            "last_commit": "2026-08-25T05:49:10Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90087
+            "stars": 90100
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-24T13:31:03Z",
+            "last_commit": "2026-08-24T15:53:12Z",
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3792
+            "stars": 3793
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:13:52Z",
+            "last_commit": "2026-08-25T05:14:18Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3155
+            "stars": 3156
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-24T00:27:07Z",
+            "last_commit": "2026-08-25T00:27:08Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 414
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 3048620,
             "language": "Perl",
-            "last_commit": "2026-08-24T01:00:06Z",
+            "last_commit": "2026-08-25T01:00:05Z",
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-21T06:14:59Z",
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8374
+            "stars": 8377
           }
         }
       ],
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-24T05:05:49Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17455
+                "stars": 17457
               }
             },
             {
@@ -236,12 +236,12 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Shopify/dashing",
+              "title": "Shopify/dashing",
               "description": "Ruby, 11128 stars, no longer maintained",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Smashing/smashing",
+                  "title": "Smashing/smashing",
                   "description": "maintained fork, 1665 stars",
                   "children": [],
                   "repo_info": {
@@ -267,7 +267,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Freeboard/freeboard",
+              "title": "Freeboard/freeboard",
               "description": "JavaScript, 5416 stars",
               "children": [],
               "repo_info": {
@@ -282,7 +282,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/allegro/tipboard",
+              "title": "allegro/tipboard",
               "description": "Python, 773 stars",
               "children": [],
               "repo_info": {
@@ -297,7 +297,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/evolvedlight/pydashie",
+              "title": "evolvedlight/pydashie",
               "description": "\"Port of Dashing to Python\" 416 stars",
               "children": [],
               "repo_info": {
@@ -317,7 +317,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/haltu/muuri",
+                  "title": "haltu/muuri",
                   "description": "No jQuery dep, no item resize (7832 stars)",
                   "children": [],
                   "repo_info": {
@@ -327,12 +327,12 @@
                     "last_commit": "2024-05-25T12:11:39Z",
                     "owner": "haltu",
                     "repo": "muuri",
-                    "stars": 10944
+                    "stars": 10945
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ducksboard/gridster.js",
+                  "title": "ducksboard/gridster.js",
                   "description": "The \"default\" solution, jQuery plugin (6188 stars)",
                   "children": [],
                   "repo_info": {
@@ -366,7 +366,7 @@
                 "last_commit": "2021-01-25T08:15:58Z",
                 "owner": "pkozul",
                 "repo": "ha-floorplan",
-                "stars": 1736
+                "stars": 1737
               }
             }
           ],
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:30.219Z",
+    "last_updated": "2026-08-25T06:16:58.228Z",
     "original_repository": "pfalcon/awesome-smarthome",
     "original_repository_id": 108227076,
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
