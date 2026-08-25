@@ -23,9 +23,9 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,100 | 🐛 3,857 | 🌐 Python | 📅 2026-08-25 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,103 | 🐛 3,805 | 🌐 Python | 📅 2026-08-25 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
 * [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,793 | 🐛 34 | 🌐 C++ | 📅 2026-08-24 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,156 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-25 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,156 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-25 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 457 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 428 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,457 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-24
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,458 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-24
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>
