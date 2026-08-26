@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-25T09:42:53Z",
+            "last_commit": "2026-08-26T09:45:38Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90103
+            "stars": 90119
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-24T15:53:12Z",
+            "last_commit": "2026-08-25T12:47:21Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3793
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T08:13:28Z",
+            "last_commit": "2026-08-26T08:52:42Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3156
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-25T00:27:08Z",
+            "last_commit": "2026-08-26T00:27:12Z",
             "owner": "jeedom",
             "repo": "core",
-            "stars": 414
+            "stars": 413
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-21T06:14:59Z",
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8377
+            "stars": 8381
           }
         }
       ],
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-24T05:05:49Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17458
+                "stars": 17461
               }
             },
             {
@@ -251,7 +251,7 @@
                     "last_commit": "2023-03-10T21:09:18Z",
                     "owner": "Smashing",
                     "repo": "smashing",
-                    "stars": 3301
+                    "stars": 3300
                   }
                 }
               ],
@@ -277,7 +277,7 @@
                 "last_commit": "2023-09-23T21:14:02Z",
                 "owner": "Freeboard",
                 "repo": "freeboard",
-                "stars": 6503
+                "stars": 6504
               }
             },
             {
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:49:39.450Z",
+    "last_updated": "2026-08-26T09:55:09.661Z",
     "original_repository": "pfalcon/awesome-smarthome",
     "original_repository_id": 108227076,
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
