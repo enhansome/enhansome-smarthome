@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-27T11:57:11Z",
+            "last_commit": "2026-08-27T19:28:55Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90133
+            "stars": 90139
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-26T18:38:51Z",
+            "last_commit": "2026-08-27T16:40:07Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3794
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:03:33Z",
+            "last_commit": "2026-08-27T19:06:10Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3156
@@ -60,7 +60,7 @@
             "last_commit": "2022-10-21T17:21:16Z",
             "owner": "pimatic",
             "repo": "pimatic",
-            "stars": 598
+            "stars": 597
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-27T11:51:27Z",
+            "last_commit": "2026-08-27T18:54:38Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 413
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-21T06:14:59Z",
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8382
+            "stars": 8385
           }
         }
       ],
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-26T13:16:08Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17463
+                "stars": 17465
               }
             },
             {
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:06.874Z",
+    "last_updated": "2026-08-27T19:49:08.139Z",
     "original_repository_info": {
       "archived": false,
       "id": 108227076,
