@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-26T09:45:38Z",
+            "last_commit": "2026-08-27T11:57:11Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90119
+            "stars": 90133
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-25T12:47:21Z",
+            "last_commit": "2026-08-26T18:38:51Z",
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3793
+            "stars": 3794
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T08:52:42Z",
+            "last_commit": "2026-08-27T12:03:33Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3156
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-26T00:27:12Z",
+            "last_commit": "2026-08-27T11:51:27Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 413
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 3048620,
             "language": "Perl",
-            "last_commit": "2026-08-25T01:00:05Z",
+            "last_commit": "2026-08-27T01:00:08Z",
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-21T06:14:59Z",
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8381
+            "stars": 8382
           }
         }
       ],
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 169975410,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:05:49Z",
+                "last_commit": "2026-08-26T13:16:08Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17461
+                "stars": 17463
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-02-06T10:19:30Z",
                 "owner": "olivia-ai",
                 "repo": "olivia",
-                "stars": 3716
+                "stars": 3717
               }
             }
           ],
@@ -277,7 +277,7 @@
                 "last_commit": "2023-09-23T21:14:02Z",
                 "owner": "Freeboard",
                 "repo": "freeboard",
-                "stars": 6504
+                "stars": 6505
               }
             },
             {
@@ -379,9 +379,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:55:09.661Z",
-    "original_repository": "pfalcon/awesome-smarthome",
-    "original_repository_id": 108227076,
+    "last_updated": "2026-08-27T12:05:06.874Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 108227076,
+      "language": null,
+      "last_commit": "2022-06-15T18:12:32Z",
+      "owner": "pfalcon",
+      "repo": "awesome-smarthome",
+      "stars": 559
+    },
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
     "enhanced_repository": "enhansome/enhansome-smarthome",
     "enhanced_repository_description": null,
