@@ -12,11 +12,12 @@
             "archived": false,
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-27T19:28:55Z",
+            "last_commit": "2026-08-28T20:48:14Z",
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90139
-          }
+            "stars": 90168
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 40759227,
             "language": "C++",
-            "last_commit": "2026-08-27T16:40:07Z",
+            "last_commit": "2026-08-28T17:31:59Z",
             "owner": "domoticz",
             "repo": "domoticz",
             "stars": 3794
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:06:10Z",
+            "last_commit": "2026-08-28T18:06:33Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3156
-          }
+            "stars": 3163
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "pimatic",
             "repo": "pimatic",
             "stars": 597
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "genielabs",
             "repo": "HomeGenie",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "freedomotic",
             "repo": "freedomotic",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-27T18:54:38Z",
+            "last_commit": "2026-08-28T00:27:12Z",
             "owner": "jeedom",
             "repo": "core",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "sergejey",
             "repo": "majordomo",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "pilight",
             "repo": "pilight",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "hollie",
             "repo": "misterhouse",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 3048620,
             "language": "Perl",
-            "last_commit": "2026-08-27T01:00:08Z",
+            "last_commit": "2026-08-28T01:00:06Z",
             "owner": "mhop",
             "repo": "fhem-mirror",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 142909126,
             "language": "Python",
-            "last_commit": "2026-08-21T06:14:59Z",
+            "last_commit": "2026-08-28T09:19:17Z",
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8385
-          }
+            "stars": 8390
+          },
+          "first_seen": "2026-08-28T20:49:34.532Z"
         }
       ],
       "title": "Notable OpenSource Projects"
@@ -203,8 +215,9 @@
                 "last_commit": "2026-08-26T13:16:08Z",
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17465
-              }
+                "stars": 17469
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "olivia-ai",
                 "repo": "olivia",
                 "stars": 3717
-              }
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             }
           ],
           "description": "Previously, government and mob had to break into your house to install bugs. Now you can pay a small amount of money and install yourself bugs which allow 3rd parties to eavesdrop on you.\nOpenSource services promising no eavesdropping (please keep in mind that for some of these projects, \"OpenSource\" is just a marketing bait):",
@@ -251,8 +265,9 @@
                     "last_commit": "2023-03-10T21:09:18Z",
                     "owner": "Smashing",
                     "repo": "smashing",
-                    "stars": 3300
-                  }
+                    "stars": 3301
+                  },
+                  "first_seen": "2026-08-28T20:49:34.532Z"
                 }
               ],
               "repo_info": {
@@ -262,8 +277,9 @@
                 "last_commit": "2019-04-29T15:20:09Z",
                 "owner": "Shopify",
                 "repo": "dashing",
-                "stars": 10907
-              }
+                "stars": 10906
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "Freeboard",
                 "repo": "freeboard",
                 "stars": 6505
-              }
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "allegro",
                 "repo": "tipboard",
                 "stars": 1113
-              }
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "evolvedlight",
                 "repo": "pydashie",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             },
             {
               "node_type": "group",
@@ -328,7 +347,8 @@
                     "owner": "haltu",
                     "repo": "muuri",
                     "stars": 10945
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:34.532Z"
                 },
                 {
                   "node_type": "item",
@@ -343,7 +363,8 @@
                     "owner": "ducksboard",
                     "repo": "gridster.js",
                     "stars": 5974
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:49:34.532Z"
                 }
               ]
             }
@@ -367,7 +388,8 @@
                 "owner": "pkozul",
                 "repo": "ha-floorplan",
                 "stars": 1737
-              }
+              },
+              "first_seen": "2026-08-28T20:49:34.532Z"
             }
           ],
           "description": "A step above and beyond dashboards is visualizing what happens where on the actual floorplan of your home.\nCompiled, maintained, content (c) 2017-2021 Paul Sokolovsky\nReleased under Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).",
@@ -379,7 +401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:49:08.139Z",
+    "last_updated": "2026-08-28T20:49:34.532Z",
     "original_repository_info": {
       "archived": false,
       "id": 108227076,
@@ -387,7 +409,7 @@
       "last_commit": "2022-06-15T18:12:32Z",
       "owner": "pfalcon",
       "repo": "awesome-smarthome",
-      "stars": 559
+      "stars": 560
     },
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
     "enhanced_repository": "enhansome/enhansome-smarthome",
