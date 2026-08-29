@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+            "homepage": "https://www.home-assistant.io",
             "id": 12888993,
             "language": "Python",
-            "last_commit": "2026-08-28T20:48:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:24Z",
+            "open_issues": 3542,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90168
+            "stars": 90170,
+            "topics": [
+              "asyncio",
+              "hacktoberfest",
+              "home-automation",
+              "internet-of-things",
+              "iot",
+              "mqtt",
+              "python",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -26,12 +40,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.",
+            "homepage": "https://www.domoticz.com",
             "id": 40759227,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T17:31:59Z",
+            "open_issues": 19,
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3794
+            "stars": 3795,
+            "topics": [
+              "cpp",
+              "domoticz",
+              "dzvents",
+              "energy-monitoring",
+              "home-automation",
+              "html5",
+              "iot",
+              "linux",
+              "lua",
+              "mqtt",
+              "open-source",
+              "python",
+              "raspberry-pi",
+              "scripting",
+              "sensors",
+              "smart-home",
+              "web-interface",
+              "windows",
+              "z-wave",
+              "zigbee"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -42,12 +82,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-first, open-source home assistant",
+            "homepage": "https://gladysassistant.com",
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:06:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:29:25Z",
+            "open_issues": 51,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3163
+            "stars": 3164,
+            "topics": [
+              "assistant",
+              "automation",
+              "gladys",
+              "home",
+              "home-automation",
+              "iot",
+              "nodejs",
+              "raspberry-pi",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -58,12 +113,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A home automation server and framework for the raspberry pi running on node.js",
+            "homepage": "http://pimatic.org",
             "id": 12175500,
             "language": "CoffeeScript",
+            "license": "GPL-2.0",
             "last_commit": "2022-10-21T17:21:16Z",
+            "open_issues": 202,
             "owner": "pimatic",
             "repo": "pimatic",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "home-automation",
+              "nodejs",
+              "pimatic",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -74,12 +139,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
+            "homepage": "https://homegenie.it",
             "id": 17072697,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-31T19:51:38Z",
+            "open_issues": 9,
             "owner": "genielabs",
             "repo": "HomeGenie",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "artificial-intelligence",
+              "automation",
+              "building-automation",
+              "computer-vision",
+              "gpio",
+              "home-automation",
+              "iot",
+              "knx",
+              "machine-learning",
+              "open-source",
+              "raspberrypi",
+              "self-hosted",
+              "smart-home",
+              "x10",
+              "zigbee",
+              "zwave"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -90,12 +177,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open IoT Framework",
+            "homepage": "https://www.freedomotic-platform.com",
             "id": 13363729,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-07T21:24:20Z",
+            "open_issues": 89,
             "owner": "freedomotic",
             "repo": "freedomotic",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "arduino",
+              "domotica",
+              "domotics",
+              "framework",
+              "hacktoberfest",
+              "home-automation",
+              "internet-of-things",
+              "iot",
+              "iot-platform",
+              "java",
+              "mqtt",
+              "open-source",
+              "opensource",
+              "raspberrypi",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -106,12 +214,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Software for home automation",
+            "homepage": "https://www.jeedom.com",
             "id": 26161892,
             "language": "PHP",
-            "last_commit": "2026-08-28T00:27:12Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T00:27:11Z",
+            "open_issues": 73,
             "owner": "jeedom",
             "repo": "core",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "home-automation",
+              "homeautomation",
+              "internet-of-things",
+              "iot",
+              "smarthome",
+              "zigbee",
+              "zwave"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -122,12 +243,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home automation platform",
+            "homepage": null,
             "id": 5258723,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-16T18:09:31Z",
+            "open_issues": 50,
             "owner": "sergejey",
             "repo": "majordomo",
-            "stars": 404
+            "stars": 404,
+            "topics": [
+              "diy",
+              "home-automation",
+              "javascript",
+              "majordomo",
+              "php",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -138,12 +271,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open source domotica solution",
+            "homepage": "www.pilight.org",
             "id": 5966572,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-28T14:29:34Z",
+            "open_issues": 46,
             "owner": "pilight",
             "repo": "pilight",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "pilight"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -154,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perl open source home automation program. It's fun, it's free, and it's entirely geeky.",
+            "homepage": null,
             "id": 6465082,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-05-16T02:17:03Z",
+            "open_issues": 45,
             "owner": "hollie",
             "repo": "misterhouse",
-            "stars": 241
+            "stars": 241,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -170,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)",
+            "homepage": null,
             "id": 3048620,
             "language": "Perl",
-            "last_commit": "2026-08-28T01:00:06Z",
+            "license": null,
+            "last_commit": "2026-08-29T01:00:05Z",
+            "open_issues": 44,
             "owner": "mhop",
             "repo": "fhem-mirror",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         },
@@ -186,12 +336,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Home Assistant resources.",
+            "homepage": "https://awesome-ha.com",
             "id": 142909126,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T09:19:17Z",
+            "open_issues": 22,
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8390
+            "stars": 8391,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "diy",
+              "hassio-repository",
+              "home-assistant",
+              "home-assistant-card",
+              "home-assistant-config",
+              "home-assistant-dashboard",
+              "home-assistant-integration",
+              "home-automation",
+              "homeassistant",
+              "homeassistant-config",
+              "homeautomation",
+              "internet-of-things",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-28T20:49:34.532Z"
         }
@@ -210,12 +381,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧠 Leon is your open-source personal assistant.",
+                "homepage": "https://getleon.ai",
                 "id": 169975410,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:16:08Z",
+                "open_issues": 111,
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17469
+                "stars": 17469,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-assistant",
+                  "artificial-intelligence",
+                  "assistant",
+                  "automation",
+                  "bot",
+                  "chatbot",
+                  "leon",
+                  "nodejs",
+                  "offline",
+                  "personal-assistant",
+                  "privacy",
+                  "python",
+                  "speech-recognition",
+                  "speech-synthesis",
+                  "speech-to-text",
+                  "text-to-speech",
+                  "virtual-assistant",
+                  "voice-assistant"
+                ]
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             },
@@ -226,12 +423,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💁‍♀️Your new best friend powered by an artificial neural network",
+                "homepage": "https://olivia-ai.org",
                 "id": 136217503,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-02-06T10:19:30Z",
+                "open_issues": 22,
                 "owner": "olivia-ai",
                 "repo": "olivia",
-                "stars": 3717
+                "stars": 3717,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "assistant",
+                  "backend",
+                  "chatbot",
+                  "deep-learning",
+                  "go",
+                  "golang",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "neural-network",
+                  "olivia",
+                  "translations",
+                  "voice-assistant"
+                ]
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             }
@@ -260,24 +477,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The exceptionally handsome dashboard framework in Ruby and Coffeescript.",
+                    "homepage": "https://smashing.github.io/",
                     "id": 59196643,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-10T21:09:18Z",
+                    "open_issues": 22,
                     "owner": "Smashing",
                     "repo": "smashing",
-                    "stars": 3301
+                    "stars": 3301,
+                    "topics": [
+                      "dashboard",
+                      "dashboard-application",
+                      "dashboard-widget",
+                      "dashboard-widgets",
+                      "dashboards",
+                      "hacktoberfest",
+                      "monitoring"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:34.532Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "The exceptionally handsome dashboard framework in Ruby and Coffeescript.",
+                "homepage": "http://shopify.github.com/dashing/",
                 "id": 5101823,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-04-29T15:20:09Z",
+                "open_issues": 251,
                 "owner": "Shopify",
                 "repo": "dashing",
-                "stars": 10906
+                "stars": 10906,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             },
@@ -288,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
+                "homepage": "http://freeboard.io",
                 "id": 11726302,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-23T21:14:02Z",
+                "open_issues": 166,
                 "owner": "Freeboard",
                 "repo": "freeboard",
-                "stars": 6505
+                "stars": 6505,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             },
@@ -304,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tipboard - in-house, tasty, local dashboarding system ",
+                "homepage": "http://allegro.github.io/tipboard/",
                 "id": 23310329,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-14T20:45:18Z",
+                "open_issues": 25,
                 "owner": "allegro",
                 "repo": "tipboard",
-                "stars": 1113
+                "stars": 1113,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             },
@@ -320,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of Dashing to python",
+                "homepage": null,
                 "id": 7004321,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-24T14:16:55Z",
+                "open_issues": 5,
                 "owner": "evolvedlight",
                 "repo": "pydashie",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             },
@@ -341,12 +591,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Infinite responsive, sortable, filterable and draggable layouts",
+                    "homepage": "https://muuri.dev",
                     "id": 48356217,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-25T12:11:39Z",
+                    "open_issues": 117,
                     "owner": "haltu",
                     "repo": "muuri",
-                    "stars": 10945
+                    "stars": 10945,
+                    "topics": [
+                      "bin-packing",
+                      "dnd",
+                      "drag-and-drop",
+                      "draggable",
+                      "filter",
+                      "grid",
+                      "layout",
+                      "muuri",
+                      "sort"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:49:34.532Z"
                 },
@@ -357,12 +622,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns ",
+                    "homepage": "http://gridster.net/",
                     "id": 5094437,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-10T21:01:45Z",
+                    "open_issues": 370,
                     "owner": "ducksboard",
                     "repo": "gridster.js",
-                    "stars": 5974
+                    "stars": 5974,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:34.532Z"
                 }
@@ -382,12 +652,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Floorplan for Home Assistant",
+                "homepage": null,
                 "id": 91287167,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2021-01-25T08:15:58Z",
+                "open_issues": 0,
                 "owner": "pkozul",
                 "repo": "ha-floorplan",
-                "stars": 1737
+                "stars": 1737,
+                "topics": [
+                  "floorplan",
+                  "home-assistant",
+                  "home-assistant-config",
+                  "home-automation",
+                  "internet-of-things",
+                  "iot",
+                  "javascript",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
             }
@@ -401,15 +685,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:49:34.532Z",
+    "last_updated": "2026-08-29T04:43:33.926Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)",
+      "homepage": null,
       "id": 108227076,
       "language": null,
+      "license": null,
       "last_commit": "2022-06-15T18:12:32Z",
+      "open_issues": 5,
       "owner": "pfalcon",
       "repo": "awesome-smarthome",
-      "stars": 560
+      "stars": 560,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "home-automation",
+        "iot",
+        "smarthome"
+      ]
     },
     "original_repository_sha": "f99673feaef76ea1e43478ff32937ea66ff63c27",
     "enhanced_repository": "enhansome/enhansome-smarthome",
