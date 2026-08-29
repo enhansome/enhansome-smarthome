@@ -23,9 +23,9 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,170 | 🐛 3,542 | 🌐 Python | 📅 2026-08-29 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,795 | 🐛 19 | 🌐 C++ | 📅 2026-08-28 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,164 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-29 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,172 | 🐛 3,525 | 🌐 Python | 📅 2026-08-29 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,796 | 🐛 20 | 🌐 C++ | 📅 2026-08-28 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,166 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-29 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 597 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 457 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 428 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,469 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-26
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,472 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-26
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>
@@ -127,7 +127,7 @@ one? Note that majority of systems below offer visualization only (no
 control).
 
 * <https://github.com/Shopify/dashing> ⚠️ Archived - Ruby, 11128 stars, no longer maintained
-  * <https://github.com/Smashing/smashing> ⭐ 3,301 | 🐛 22 | 🌐 JavaScript | 📅 2023-03-10 - maintained fork, 1665 stars
+  * <https://github.com/Smashing/smashing> ⭐ 3,302 | 🐛 22 | 🌐 JavaScript | 📅 2023-03-10 - maintained fork, 1665 stars
 * <https://github.com/Freeboard/freeboard> ⭐ 6,505 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - JavaScript, 5416 stars
 * <https://github.com/allegro/tipboard> ⭐ 1,113 | 🐛 25 | 🌐 JavaScript | 📅 2024-11-14 - Python, 773 stars
 * <https://github.com/evolvedlight/pydashie> ⭐ 413 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-24 - "Port of Dashing to Python" 416 stars

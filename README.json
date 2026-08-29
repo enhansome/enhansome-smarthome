@@ -15,11 +15,11 @@
             "id": 12888993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:52:24Z",
-            "open_issues": 3542,
+            "last_commit": "2026-08-29T14:24:35Z",
+            "open_issues": 3525,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90170,
+            "stars": 90172,
             "topics": [
               "asyncio",
               "hacktoberfest",
@@ -46,10 +46,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T17:31:59Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3795,
+            "stars": 3796,
             "topics": [
               "cpp",
               "domoticz",
@@ -87,11 +87,11 @@
             "id": 36928490,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:29:25Z",
-            "open_issues": 51,
+            "last_commit": "2026-08-29T13:35:38Z",
+            "open_issues": 52,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3164,
+            "stars": 3166,
             "topics": [
               "assistant",
               "automation",
@@ -390,7 +390,7 @@
                 "open_issues": 111,
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17469,
+                "stars": 17472,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -486,7 +486,7 @@
                     "open_issues": 22,
                     "owner": "Smashing",
                     "repo": "smashing",
-                    "stars": 3301,
+                    "stars": 3302,
                     "topics": [
                       "dashboard",
                       "dashboard-application",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:33.926Z",
+    "last_updated": "2026-08-29T14:26:59.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)",
