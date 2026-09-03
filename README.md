@@ -23,22 +23,22 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,217 | 🐛 3,383 | 🌐 Python | 📅 2026-09-02 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,798 | 🐛 19 | 🌐 C++ | 📅 2026-08-30 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,170 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-02 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,226 | 🐛 3,378 | 🌐 Python | 📅 2026-09-03 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,799 | 🐛 18 | 🌐 C++ | 📅 2026-09-02 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,173 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-02 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 597 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 457 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 428 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
-* [Jeedom](https://github.com/jeedom/core) ⭐ 413 | 🐛 71 | 🌐 PHP | 📅 2026-09-02 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
+* [Jeedom](https://github.com/jeedom/core) ⭐ 413 | 🐛 73 | 🌐 PHP | 📅 2026-09-03 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
 * [MajorDoMo](https://github.com/sergejey/majordomo) ⭐ 405 | 🐛 50 | 🌐 PHP | 📅 2026-08-31 Site: <http://majordomohome.com/>, Stars: 346, Language: PHP
 * [pilight](https://github.com/pilight/pilight) ⭐ 280 | 🐛 46 | 🌐 C | 📅 2024-12-28 Site: <https://www.pilight.org/>, Stars: 269, Language: C
 * [MisterHouse](https://github.com/hollie/misterhouse) ⭐ 241 | 🐛 45 | 🌐 Perl | 📅 2026-05-16 Site: <http://misterhouse.net/>, Stars: 218, Language: Perl
-* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 44 | 🌐 Perl | 📅 2026-09-02 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
+* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 44 | 🌐 Perl | 📅 2026-09-03 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
 * [openHAB](https://github.com/openhab) Site: <http://www.openhab.org/>, Stars: 3484, Language: Java
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,402 | 🐛 22 | 🌐 Python | 📅 2026-08-31
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,405 | 🐛 22 | 🌐 Python | 📅 2026-08-31
 
 ## Notable Commercial Systems
 
@@ -61,7 +61,7 @@ announced that Revolv Hub will cease to operate on May 15, 2016.
 
 Uses Groovy language for (custom) components.
 
-* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) ⭐ 2,657 | 🐛 2,507 | 🌐 Groovy | 📅 2023-07-18 Site: <http://docs.smartthings.com>, Forks: 27667, Language: Groovy
+* [SmartThings open-source components](https://github.com/SmartThingsCommunity/SmartThingsPublic) ⭐ 2,658 | 🐛 2,507 | 🌐 Groovy | 📅 2023-07-18 Site: <http://docs.smartthings.com>, Forks: 27667, Language: Groovy
 
 ### Vera
 
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,475 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-26
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,479 | 🐛 111 | 🌐 TypeScript | 📅 2026-09-03
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>
@@ -156,4 +156,4 @@ actual floorplan of your home.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
