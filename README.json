@@ -15,11 +15,11 @@
             "id": 12888993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:06:36Z",
-            "open_issues": 3541,
+            "last_commit": "2026-09-17T14:10:30Z",
+            "open_issues": 3576,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90543,
+            "stars": 90620,
             "topics": [
               "asyncio",
               "hacktoberfest",
@@ -49,7 +49,7 @@
             "open_issues": 23,
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3805,
+            "stars": 3807,
             "topics": [
               "cpp",
               "domoticz",
@@ -87,11 +87,11 @@
             "id": 36928490,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:39:48Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-16T19:13:16Z",
+            "open_issues": 57,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3192,
+            "stars": 3194,
             "topics": [
               "assistant",
               "automation",
@@ -219,8 +219,8 @@
             "id": 26161892,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-16T00:27:09Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-17T14:14:50Z",
+            "open_issues": 57,
             "owner": "jeedom",
             "repo": "core",
             "stars": 414,
@@ -320,7 +320,7 @@
             "id": 3048620,
             "language": "Perl",
             "license": null,
-            "last_commit": "2026-09-16T01:00:06Z",
+            "last_commit": "2026-09-17T01:00:07Z",
             "open_issues": 44,
             "owner": "mhop",
             "repo": "fhem-mirror",
@@ -345,7 +345,7 @@
             "open_issues": 23,
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8450,
+            "stars": 8454,
             "topics": [
               "awesome",
               "awesome-list",
@@ -386,11 +386,11 @@
                 "id": 169975410,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T12:13:54Z",
+                "last_commit": "2026-09-17T09:01:38Z",
                 "open_issues": 111,
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17515,
+                "stars": 17518,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -532,7 +532,7 @@
                 "open_issues": 166,
                 "owner": "Freeboard",
                 "repo": "freeboard",
-                "stars": 6505,
+                "stars": 6506,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
@@ -600,7 +600,7 @@
                     "open_issues": 117,
                     "owner": "haltu",
                     "repo": "muuri",
-                    "stars": 10945,
+                    "stars": 10946,
                     "topics": [
                       "bin-packing",
                       "dnd",
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:10:48.494Z",
+    "last_updated": "2026-09-17T14:16:14.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)",
