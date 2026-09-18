@@ -23,22 +23,22 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,620 | 🐛 3,576 | 🌐 Python | 📅 2026-09-17 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,807 | 🐛 23 | 🌐 C++ | 📅 2026-09-16 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,194 | 🐛 57 | 🌐 JavaScript | 📅 2026-09-16 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 90,702 | 🐛 3,602 | 🌐 Python | 📅 2026-09-18 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,807 | 🐛 24 | 🌐 C++ | 📅 2026-09-16 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,196 | 🐛 55 | 🌐 JavaScript | 📅 2026-09-18 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 458 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 429 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
-* [Jeedom](https://github.com/jeedom/core) ⭐ 414 | 🐛 57 | 🌐 PHP | 📅 2026-09-17 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
+* [Jeedom](https://github.com/jeedom/core) ⭐ 414 | 🐛 52 | 🌐 PHP | 📅 2026-09-18 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
 * [MajorDoMo](https://github.com/sergejey/majordomo) ⭐ 406 | 🐛 51 | 🌐 PHP | 📅 2026-09-10 Site: <http://majordomohome.com/>, Stars: 346, Language: PHP
 * [pilight](https://github.com/pilight/pilight) ⭐ 280 | 🐛 46 | 🌐 C | 📅 2024-12-28 Site: <https://www.pilight.org/>, Stars: 269, Language: C
 * [MisterHouse](https://github.com/hollie/misterhouse) ⭐ 241 | 🐛 45 | 🌐 Perl | 📅 2026-05-16 Site: <http://misterhouse.net/>, Stars: 218, Language: Perl
-* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 44 | 🌐 Perl | 📅 2026-09-17 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
+* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 44 | 🌐 Perl | 📅 2026-09-18 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
 * [openHAB](https://github.com/openhab) Site: <http://www.openhab.org/>, Stars: 3484, Language: Java
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,454 | 🐛 23 | 🌐 Python | 📅 2026-09-11
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,455 | 🐛 23 | 🌐 Python | 📅 2026-09-18
 
 ## Notable Commercial Systems
 
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,518 | 🐛 111 | 🌐 TypeScript | 📅 2026-09-17
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,520 | 🐛 111 | 🌐 TypeScript | 📅 2026-09-17
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>
@@ -128,12 +128,12 @@ control).
 
 * <https://github.com/Shopify/dashing> ⚠️ Archived - Ruby, 11128 stars, no longer maintained
   * <https://github.com/Smashing/smashing> ⭐ 3,301 | 🐛 22 | 🌐 JavaScript | 📅 2023-03-10 - maintained fork, 1665 stars
-* <https://github.com/Freeboard/freeboard> ⭐ 6,506 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - JavaScript, 5416 stars
+* <https://github.com/Freeboard/freeboard> ⭐ 6,507 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - JavaScript, 5416 stars
 * <https://github.com/allegro/tipboard> ⭐ 1,113 | 🐛 25 | 🌐 JavaScript | 📅 2024-11-14 - Python, 773 stars
 * <https://github.com/evolvedlight/pydashie> ⭐ 413 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-24 - "Port of Dashing to Python" 416 stars
 * Grid Layouts
-  * <https://github.com/haltu/muuri> ⭐ 10,946 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-25 - No jQuery dep, no item resize (7832 stars)
-  * <https://github.com/ducksboard/gridster.js> ⭐ 5,971 | 🐛 370 | 🌐 JavaScript | 📅 2020-09-10 - The "default" solution, jQuery plugin (6188 stars)
+  * <https://github.com/haltu/muuri> ⭐ 10,947 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-25 - No jQuery dep, no item resize (7832 stars)
+  * <https://github.com/ducksboard/gridster.js> ⭐ 5,970 | 🐛 370 | 🌐 JavaScript | 📅 2020-09-10 - The "default" solution, jQuery plugin (6188 stars)
   * <https://github.com/hootsuite/grid> (3433 stars)
 
 ### Floor Plans
@@ -156,4 +156,4 @@ actual floorplan of your home.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
