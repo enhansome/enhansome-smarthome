@@ -23,13 +23,13 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 91,228 | 🐛 3,624 | 🌐 Python | 📅 2026-10-03 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,815 | 🐛 116 | 🌐 C++ | 📅 2026-10-01 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,218 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-02 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 91,234 | 🐛 3,622 | 🌐 Python | 📅 2026-10-03 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,815 | 🐛 46 | 🌐 C++ | 📅 2026-10-03 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,218 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-02 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
 * [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 458 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-31 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 429 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
-* [Jeedom](https://github.com/jeedom/core) ⭐ 415 | 🐛 59 | 🌐 PHP | 📅 2026-10-03 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
+* [Jeedom](https://github.com/jeedom/core) ⭐ 415 | 🐛 58 | 🌐 PHP | 📅 2026-10-03 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
 * [MajorDoMo](https://github.com/sergejey/majordomo) ⭐ 406 | 🐛 54 | 🌐 PHP | 📅 2026-09-30 Site: <http://majordomohome.com/>, Stars: 346, Language: PHP
 * [pilight](https://github.com/pilight/pilight) ⭐ 280 | 🐛 46 | 🌐 C | 📅 2024-12-28 Site: <https://www.pilight.org/>, Stars: 269, Language: C
 * [MisterHouse](https://github.com/hollie/misterhouse) ⭐ 240 | 🐛 45 | 🌐 Perl | 📅 2026-05-16 Site: <http://misterhouse.net/>, Stars: 218, Language: Perl
@@ -38,7 +38,7 @@ at least 200 stars.
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,497 | 🐛 28 | 🌐 Python | 📅 2026-10-02
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,498 | 🐛 28 | 🌐 Python | 📅 2026-10-02
 
 ## Notable Commercial Systems
 
@@ -132,7 +132,7 @@ control).
 * <https://github.com/allegro/tipboard> ⭐ 1,112 | 🐛 25 | 🌐 JavaScript | 📅 2024-11-14 - Python, 773 stars
 * <https://github.com/evolvedlight/pydashie> ⭐ 413 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-24 - "Port of Dashing to Python" 416 stars
 * Grid Layouts
-  * <https://github.com/haltu/muuri> ⭐ 10,942 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-25 - No jQuery dep, no item resize (7832 stars)
+  * <https://github.com/haltu/muuri> ⭐ 10,941 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-25 - No jQuery dep, no item resize (7832 stars)
   * <https://github.com/ducksboard/gridster.js> ⭐ 5,966 | 🐛 370 | 🌐 JavaScript | 📅 2020-09-10 - The "default" solution, jQuery plugin (6188 stars)
   * <https://github.com/hootsuite/grid> (3433 stars)
 
