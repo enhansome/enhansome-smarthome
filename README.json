@@ -15,11 +15,11 @@
             "id": 12888993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:44:11Z",
-            "open_issues": 3636,
+            "last_commit": "2026-10-03T00:59:58Z",
+            "open_issues": 3624,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 91217,
+            "stars": 91228,
             "topics": [
               "asyncio",
               "hacktoberfest",
@@ -46,10 +46,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T13:58:54Z",
-            "open_issues": 61,
+            "open_issues": 116,
             "owner": "domoticz",
             "repo": "domoticz",
-            "stars": 3814,
+            "stars": 3815,
             "topics": [
               "cpp",
               "domoticz",
@@ -219,7 +219,7 @@
             "id": 26161892,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T14:42:38Z",
+            "last_commit": "2026-10-03T00:27:12Z",
             "open_issues": 59,
             "owner": "jeedom",
             "repo": "core",
@@ -320,7 +320,7 @@
             "id": 3048620,
             "language": "Perl",
             "license": null,
-            "last_commit": "2026-10-02T01:00:07Z",
+            "last_commit": "2026-10-03T01:00:04Z",
             "open_issues": 44,
             "owner": "mhop",
             "repo": "fhem-mirror",
@@ -332,7 +332,7 @@
         {
           "node_type": "item",
           "title": "Awesome Home Assistant",
-          "description": null,
+          "description": "frenck/awesome-home-assistant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,7 +345,7 @@
             "open_issues": 28,
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8495,
+            "stars": 8497,
             "topics": [
               "awesome",
               "awesome-list",
@@ -386,11 +386,11 @@
                 "id": 169975410,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T02:00:51Z",
+                "last_commit": "2026-10-03T04:24:11Z",
                 "open_issues": 113,
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17552,
+                "stars": 17554,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -553,7 +553,7 @@
                 "open_issues": 25,
                 "owner": "allegro",
                 "repo": "tipboard",
-                "stars": 1113,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:45:18.257Z",
+    "last_updated": "2026-10-03T05:08:13.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)",
