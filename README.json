@@ -15,11 +15,11 @@
             "id": 12888993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T13:51:55Z",
-            "open_issues": 3378,
+            "last_commit": "2026-10-17T12:23:09Z",
+            "open_issues": 3371,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 91559,
+            "stars": 91568,
             "topics": [
               "asyncio",
               "hacktoberfest",
@@ -87,11 +87,11 @@
             "id": 36928490,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T13:54:51Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-17T04:43:42Z",
+            "open_issues": 49,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3240,
+            "stars": 3242,
             "topics": [
               "assistant",
               "automation",
@@ -220,7 +220,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-10-15T17:43:33Z",
-            "open_issues": 49,
+            "open_issues": 48,
             "owner": "jeedom",
             "repo": "core",
             "stars": 414,
@@ -320,7 +320,7 @@
             "id": 3048620,
             "language": "Perl",
             "license": null,
-            "last_commit": "2026-10-16T01:00:06Z",
+            "last_commit": "2026-10-17T01:00:08Z",
             "open_issues": 43,
             "owner": "mhop",
             "repo": "fhem-mirror",
@@ -345,7 +345,7 @@
             "open_issues": 29,
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8556,
+            "stars": 8558,
             "topics": [
               "awesome",
               "awesome-list",
@@ -387,10 +387,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-12T12:24:33Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "leon-ai",
                 "repo": "leon",
-                "stars": 17580,
+                "stars": 17583,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -511,7 +511,7 @@
                 "open_issues": 251,
                 "owner": "Shopify",
                 "repo": "dashing",
-                "stars": 10899,
+                "stars": 10898,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
@@ -532,7 +532,7 @@
                 "open_issues": 166,
                 "owner": "Freeboard",
                 "repo": "freeboard",
-                "stars": 6506,
+                "stars": 6505,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:34.532Z"
@@ -631,7 +631,7 @@
                     "open_issues": 370,
                     "owner": "ducksboard",
                     "repo": "gridster.js",
-                    "stars": 5962,
+                    "stars": 5961,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:34.532Z"
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:55:38.709Z",
+    "last_updated": "2026-10-17T12:56:34.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)",
@@ -694,7 +694,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-06-15T18:12:32Z",
-      "open_issues": 7,
+      "open_issues": 5,
       "owner": "pfalcon",
       "repo": "awesome-smarthome",
       "stars": 562,
