@@ -23,22 +23,22 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 92,046 | 🐛 3,636 | 🌐 Python | 📅 2026-11-07 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,834 | 🐛 5 | 🌐 C++ | 📅 2026-11-07 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,271 | 🐛 47 | 🌐 JavaScript | 📅 2026-11-06 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 92,067 | 🐛 3,704 | 🌐 Python | 📅 2026-11-08 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,835 | 🐛 5 | 🌐 C++ | 📅 2026-11-08 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,270 | 🐛 51 | 🌐 JavaScript | 📅 2026-11-08 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 459 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-29 Site: <http://homegenie.it/>, Stars: 313, Language: C#
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 459 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-08 Site: <http://homegenie.it/>, Stars: 313, Language: C#
 * [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 428 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
-* [Jeedom](https://github.com/jeedom/core) ⭐ 413 | 🐛 56 | 🌐 PHP | 📅 2026-11-07 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
+* [Jeedom](https://github.com/jeedom/core) ⭐ 413 | 🐛 57 | 🌐 PHP | 📅 2026-11-08 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
 * [MajorDoMo](https://github.com/sergejey/majordomo) ⭐ 407 | 🐛 48 | 🌐 PHP | 📅 2026-11-06 Site: <http://majordomohome.com/>, Stars: 346, Language: PHP
 * [pilight](https://github.com/pilight/pilight) ⭐ 280 | 🐛 46 | 🌐 C | 📅 2024-12-28 Site: <https://www.pilight.org/>, Stars: 269, Language: C
 * [MisterHouse](https://github.com/hollie/misterhouse) ⭐ 239 | 🐛 46 | 🌐 Perl | 📅 2026-05-16 Site: <http://misterhouse.net/>, Stars: 218, Language: Perl
-* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 43 | 🌐 Perl | 📅 2026-11-06 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
+* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 43 | 🌐 Perl | 📅 2026-11-08 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
 * [openHAB](https://github.com/openhab) Site: <http://www.openhab.org/>, Stars: 3484, Language: Java
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,644 | 🐛 33 | 🌐 Python | 📅 2026-11-06
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,646 | 🐛 33 | 🌐 Python | 📅 2026-11-06
 
 ## Notable Commercial Systems
 
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,646 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-07
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,647 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-08
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>
@@ -156,4 +156,4 @@ actual floorplan of your home.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
