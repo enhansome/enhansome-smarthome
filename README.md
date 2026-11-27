@@ -23,22 +23,22 @@ Complete, self-hosted home automation systems with frontend, suitable for
 end users. At least a year in active development, at least 200 commits,
 at least 200 stars.
 
-* [Home Assistant](https://github.com/home-assistant/core) ⭐ 92,578 | 🐛 3,747 | 🌐 Python | 📅 2026-11-26 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
-* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,844 | 🐛 8 | 🌐 C++ | 📅 2026-11-24 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
-* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,284 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-24 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
+* [Home Assistant](https://github.com/home-assistant/core) ⭐ 92,577 | 🐛 3,832 | 🌐 Python | 📅 2026-11-27 Site: <https://home-assistant.io/>, Stars: 39187 Language: Python
+* [Domoticz](https://github.com/domoticz/domoticz) ⭐ 3,846 | 🐛 9 | 🌐 C++ | 📅 2026-11-27 Site: <http://www.domoticz.com/>, Stars: 2831, Language: C++
+* [Gladys](https://github.com/GladysProject/Gladys) ⭐ 3,284 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-27 Site: <https://gladysproject.com/>, Stars: 1573, Language: JavaScript
 * [pimatic](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 Site: <https://pimatic.org/>, Stars: 579, Language: JavaScript
-* [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 459 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-24 Site: <http://homegenie.it/>, Stars: 313, Language: C#
-* [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 428 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
-* [Jeedom](https://github.com/jeedom/core) ⭐ 413 | 🐛 58 | 🌐 PHP | 📅 2026-11-26 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
-* [MajorDoMo](https://github.com/sergejey/majordomo) ⭐ 407 | 🐛 78 | 🌐 PHP | 📅 2026-11-26 Site: <http://majordomohome.com/>, Stars: 346, Language: PHP
+* [HomeGenie](https://github.com/genielabs/HomeGenie/) ⭐ 460 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-24 Site: <http://homegenie.it/>, Stars: 313, Language: C#
+* [Freedomotic](https://github.com/freedomotic/freedomotic) ⭐ 427 | 🐛 89 | 🌐 Java | 📅 2023-07-07 Site: <http://freedomotic.com/>, Stars: 352, Language: Java
+* [Jeedom](https://github.com/jeedom/core) ⭐ 413 | 🐛 58 | 🌐 PHP | 📅 2026-11-27 Site: <https://www.jeedom.com/site/en/>, Stars: 327, Language: PHP
+* [MajorDoMo](https://github.com/sergejey/majordomo) ⭐ 407 | 🐛 89 | 🌐 PHP | 📅 2026-11-26 Site: <http://majordomohome.com/>, Stars: 346, Language: PHP
 * [pilight](https://github.com/pilight/pilight) ⭐ 280 | 🐛 46 | 🌐 C | 📅 2024-12-28 Site: <https://www.pilight.org/>, Stars: 269, Language: C
 * [MisterHouse](https://github.com/hollie/misterhouse) ⭐ 240 | 🐛 45 | 🌐 Perl | 📅 2026-11-18 Site: <http://misterhouse.net/>, Stars: 218, Language: Perl
-* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 43 | 🌐 Perl | 📅 2026-11-26 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
+* [FHEM](https://github.com/mhop/fhem-mirror) ⭐ 107 | 🐛 43 | 🌐 Perl | 📅 2026-11-27 Site: <https://fhem.de/>, Revisions: 23387, Language: Perl
 * [openHAB](https://github.com/openhab) Site: <http://www.openhab.org/>, Stars: 3484, Language: Java
 
 Related awesome lists:
 
-* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,713 | 🐛 36 | 🌐 Python | 📅 2026-11-23
+* [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,719 | 🐛 36 | 🌐 Python | 📅 2026-11-27
 
 ## Notable Commercial Systems
 
@@ -94,7 +94,7 @@ Now you can pay a small amount of money and install yourself bugs which allow
 OpenSource services promising no eavesdropping (please keep in mind that for
 some of these projects, "OpenSource" is just a marketing bait):
 
-* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,727 | 🐛 120 | 🌐 TypeScript | 📅 2026-11-26
+* [Leon-AI](https://getleon.ai/), code: <https://github.com/leon-ai/leon> ⭐ 17,729 | 🐛 120 | 🌐 TypeScript | 📅 2026-11-27
 * [Olivia-AI](https://olivia-ai.org/), code: <https://github.com/olivia-ai/olivia> ⚠️ Archived
 * [Mycroft.AI](https://mycroft.ai/), code: <https://github.com/MycroftAI>
 * [Snips](https://www.snips.ai/), code: <https://github.com/snipsco/>
@@ -156,4 +156,4 @@ actual floorplan of your home.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
